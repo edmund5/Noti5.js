@@ -16,7 +16,7 @@ Check out the [Noti5.js Demo](https://noti5.edmundcinco.com) to see Noti5.js in 
 
 ### Via npm
 ```bash
-npm install noti5.js
+npm install noti5
 ```
 
 ### Via CDN
@@ -31,7 +31,6 @@ Production (minified):
 ```html
 <script src="https://cdn.jsdelivr.net/npm/noti5.js@1.0.0/noti5.min.js"></script>
 ```
-*Make sure to update the version number as needed.*
 
 ## Usage
 
