@@ -84,7 +84,7 @@ Noti5.confirm('Are you sure you want to proceed?', function() {
   Customizes the theme colors.
 
 ## License
-Noti5.js is licensed under the [MIT License](LICENSE).
+Noti5.js is licensed under the [MIT License](https://github.com/edmund5/Noti5.js/tree/master?tab=MIT-1-ov-file).
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request. For major changes, open an issue first to discuss your proposed changes.
