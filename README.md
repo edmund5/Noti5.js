@@ -24,12 +24,12 @@ Include the script in your HTML:
 
 Development (unminified):
 ```html
-<script src="https://cdn.jsdelivr.net/npm/noti5.js@1.0.0/noti5.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/edmund5/Noti5.js@v1.0.0/noti5.js"></script>
 ```
 
 Production (minified):
 ```html
-<script src="https://cdn.jsdelivr.net/npm/noti5.js@1.0.0/noti5.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/edmund5/Noti5.js@v1.0.0/noti5.min.js"></script>
 ```
 
 ## Usage
